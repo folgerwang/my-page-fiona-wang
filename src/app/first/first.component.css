@@ -1,0 +1,19 @@
+p {
+  /*margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 15%;
+  margin-bottom: 15%;*/
+  margin: 50px;
+  padding: 20px;
+  font-family: "Poiret One", cursive;
+  position: center;
+}
+h1 {
+  /*padding-left: 10%;
+  padding-top: 40px;*/
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 10%;
+  font-family: "Bungee Outline", cursive;
+  font-size: 60px;
+}

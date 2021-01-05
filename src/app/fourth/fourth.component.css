@@ -1,0 +1,19 @@
+h1 {
+  font-family: "Bungee Outline", cursive;
+  font-size: 60px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 10%;
+}
+.Hobbies {
+  font-family: "Poiret One", cursive;
+  margin: 50px;
+  background-color: #fee7f8;
+  padding: 20px;
+  font-size: 35px;
+}
+p {
+  padding-left: 10%;
+  font-size: 25px;
+  font-family: "Poiret One", cursive;
+}
