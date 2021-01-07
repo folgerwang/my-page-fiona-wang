@@ -3,17 +3,17 @@ p {
   margin-right: 25%;
   margin-top: 15%;
   margin-bottom: 15%;*/
-  margin-left: 27%;
+  
   /*margin-bottom: 50px;
   margin-right: 50px;*/
-  padding: 20px;
+  padding: 30px;
   font-family: "Poiret One", cursive;
-  position: center;
 }
 h1 {
   /*padding-left: 10%;
   padding-top: 40px;*/
   padding-top: 50px;
+  padding-bottom: 50px;
   /*padding-bottom: 40px;*/
   padding-left: 10%;
   font-family: "Bungee Outline", cursive;
