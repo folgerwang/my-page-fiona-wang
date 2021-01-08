@@ -13,11 +13,10 @@ h1 {
   font-size: 35px;
 }
 p {
-  
-  width:1000px;
-   height:200px;
-     margin-top: 100px;
-    font-size:35px; 
-    margin-left:10%;
+  width: 1000px;
+  height: 200px;
+  margin-top: 100px;
+  font-size: 35px;
+  margin-left: 10%;
   font-family: "Poiret One", cursive;
 }
